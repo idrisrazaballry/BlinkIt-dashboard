@@ -113,3 +113,14 @@ Power BI | Data Analytics | Data Science Enthusiast
 ## Conclusion
 
 This Power BI dashboard project demonstrates the ability to transform raw business data into meaningful visual insights. It highlights practical knowledge in data analytics, visualization, and business intelligence while providing an effective decision-support system for sales analysis.
+
+
+
+
+
+
+
+
+
+
+
